@@ -58,7 +58,7 @@ const WIDGET_VERSION = '1.0.6';
 // Create a new item to include your vehicle (Please submit a pull request if you want to add your vehicle officially.  Please include the icon so I can add it to the repository)
 const vehicleTypes = [{
         name: 'Ford F-150',
-        icon: 'F150_2021.png',
+        icon: '2021_F150_Lariat_Red.png',
     },
     {
         name: 'Ford Explorer',
